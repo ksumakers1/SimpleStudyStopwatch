@@ -8,10 +8,10 @@ This project was created purely for my education and use.
 Windows 7 or higher
 
 ## Usage
-1. Enter the subject name.
+1. Enter the subject.
 2. Press **Start** to begin timing.
 3. Press **Stop** to pause.
-4. Press **Reset** to save the session.
-5. Press **View Stats** to see total time per subject.
+4. Press **End session** to save the session.
+5. Press **View stats** to see total time per subject.
 
-Data is saved automatically to `data/study_stats.csv`, which will be created and located in the same directory as the program file.
+Data is saved automatically  to `data/study_stats.csv` every time **End session** is pressed. The folder and file will be created in the same directory as the executable and can be accessed by the program only when it is there.

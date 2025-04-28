@@ -5,7 +5,7 @@ The purpose of this program is to assist students with studying at home (online 
 This project was created purely for my education and use.
 
 ### Requirements:
-Windows 7 or higher
+Windows 7 or higher.
 
 ## Usage
 1. Enter the subject.

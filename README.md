@@ -14,4 +14,4 @@ Windows 7 or higher.
 4. Press **End session** to save the session.
 5. Press **View stats** to see total time per subject.
 
-Data is saved to `data/study_stats.csv` every time **End session** is pressed. The folder and file will be created in the same directory as the executable and can be accessed by the program only when it is there. If the folder and file do not exist when you press **View stats** it will be created.
+Data is saved to `data/study_stats.csv` every time **End session** is pressed. The folder and file will be created in the same directory as the executable and can be accessed by the program only when it is there. If the folder and file do not exist when you press **View stats**, it will be created.
